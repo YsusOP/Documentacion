@@ -5,8 +5,13 @@ pip install flask_mysql
 pip install flask-mysqldb
 pip install flask-cors
 
+Iniciar API:
+
 Python src/app.py
 
 APP-Movil:
-
 npm i
+
+Iniciar APP Movil:
+npm start
+esperar a que permita visualizar las opciones de inicio, luego presionar w y enter
