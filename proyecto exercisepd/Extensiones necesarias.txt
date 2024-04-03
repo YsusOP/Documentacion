@@ -1,0 +1,12 @@
+API:
+
+pip install flask
+pip install flask_mysql
+pip install flask-mysqldb
+pip install flask-cors
+
+Python src/app.py
+
+APP-Movil:
+
+npm i
